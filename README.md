@@ -1,1 +1,1 @@
-# My C++ repository houses a collection of efficient and well-documented C++ code snippets and projects, carefully crafted to solve real-world problems. Explore this repository to find robust solutions and enhance your C++ programming skills.
+#My C++ repository houses a collection of efficient and well-documented C++ code snippets and projects, carefully crafted to solve real-world problems. Explore this repository to find robust solutions and enhance your C++ programming skills.
